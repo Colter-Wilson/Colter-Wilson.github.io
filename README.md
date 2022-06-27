@@ -2,9 +2,12 @@
 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What Growth Mindset Means to Me
 
-### Markdown
+
+What a
+> Growth Mindest
+means to me is having the ability to learn and grow regardless of the situation you are in. Instead of letting failure get them down someone with a growth mindset would be accepting of the challenge and realize that in the end regardless of the result they will be in a better place than when they started simply because they kept a positive mindset. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
