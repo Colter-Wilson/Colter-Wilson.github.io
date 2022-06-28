@@ -27,5 +27,5 @@ HTML stands for <Hypertext Markup Language< and is the most basic building block
 
 
 
-[My Github](https://github.com/Colter-Wilson/Colter-Wilson.github.io/edit/main/README.md).
+[My Github](https://github.com/Colter-Wilson).
 ```
