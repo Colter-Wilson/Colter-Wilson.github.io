@@ -1,4 +1,4 @@
-# My Growth Mindset
+# Reading Notes
 
 
 
