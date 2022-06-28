@@ -9,8 +9,11 @@ What a Growth Mindest means to me is having the ability to learn and grow regard
 
 ### Tips for Keeping a Growth Mindset
 
-```markdown
-Syntax highlighted code block
+-When you start getting too stressed out just take a step back, take some deep breathes, and slow down your pace.
+
+-Look at failure as the first step to success, to succeed you have to fail a million times.
+
+-Have confidence in your work, this will allow you to produce better work and learn from constructive criticism more easily.
 
 # Header 1
 ## Header 2
