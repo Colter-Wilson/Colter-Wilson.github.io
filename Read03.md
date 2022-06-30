@@ -9,3 +9,10 @@ Git can reside in three main states: committed, modified, and staged. When a fil
 ## Git Examples
 
 Git commit all changes- "git commit -a"
+
+Git stage file- "git add"
+
+Pulling remote data- "Git fetch"
+
+Creating copy of an exisiting Git repository- "Git clone + repository url"
+
