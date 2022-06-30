@@ -8,3 +8,7 @@ What having a growth mindset means to me is the ability to learn from yours and 
 - Keep in mind that failure is your first step to success.
 - Never be afraid to ask for help when you're stuck.
 
+# *Markdown*
+
+Markdown is a lightweight markup language for creating formatted text. Many different applications use markdown including Github, which is what I am using markdown through currently! Other markup languages such as HTML require a specific text editor such as VSCode to be able to run the code, but with Markup I'm able to just use a plain text editor to write my code. The code that is written is also much more simple than other markup languages, instead of using tags, elements, stylesheets, etc. I am able to just use basic syntax  to create my code, making writing markup an extremely teachable language. Down below I am going to give some visual examples of markdown in use so that you can better understand the language!
+
