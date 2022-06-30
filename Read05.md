@@ -19,6 +19,7 @@ text-align: Center; }
 The code above is being applied to the H1 element. It will make the H1 text green, put a border that is 1px x 1px in size and grey, It will change the size of each character in the H1 to 10px, change the font to italic, and align the H1 in the center of the page.
 
 - Div {
+
 height: 100px;
 
 width: 100px;
@@ -28,6 +29,8 @@ Display: inline;
 padding: 1px;
 
 background-color: Green; }
+
+The code above is affecting the Div. It will make the height and width of the div 100x100, display the box model as inline so that another div can be placed on the same line, create 1px of padding outside of the content, and turn the background in the div to green.
 
 
 
