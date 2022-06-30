@@ -16,3 +16,7 @@ Pulling remote data- "Git fetch"
 
 Creating copy of an exisiting Git repository- "Git clone + repository url"
 
+## Git Resources
+
+[Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
