@@ -24,4 +24,8 @@ Markdown is a lightweight markup language for creating formatted text. Many diff
 ### Bold and Italics Examples
 
 - ** around any text will create italicized text.
-- ** ** around any text will creare bold text.
+- ** ** around any text will create bold text.
+
+### Link Examples
+
+- Place the text for your link inside brackets "[]" followed by the actual link inside parentheses "()" and this will create a link
