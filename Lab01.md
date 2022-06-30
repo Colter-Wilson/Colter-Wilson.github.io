@@ -35,3 +35,4 @@ Markdown is a lightweight markup language for creating formatted text. Many diff
 Here are some resources you can use to further your knowledge of Markdown.
 
 - [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+- [Mastering Markdown On GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
