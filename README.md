@@ -6,10 +6,10 @@ Hello, my name is Colter Wilson, I am a 22 year old aspiring software developer 
 
 ## *Table of Contents*
 
-- [Lab01](Read01.md)
-- [Lab02](Read02.md)
-- [Lab03](Read03.md)
-- [Lab04](Read04.md)
+- [Read01](Read01.md)
+- [Read02](Read02.md)
+- [Read03](Read03.md)
+- [Read04](Read04.md)
 
 
 
