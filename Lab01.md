@@ -29,3 +29,9 @@ Markdown is a lightweight markup language for creating formatted text. Many diff
 ### Link Examples
 
 - Place the text for your link inside brackets "[]" followed by the actual link inside parentheses "()" and this will create a link
+
+### Markdown Resources
+
+Here are some resources you can use to further your knowledge of Markdown.
+
+- [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
