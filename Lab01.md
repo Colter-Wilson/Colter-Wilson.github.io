@@ -16,12 +16,12 @@ Markdown is a lightweight markup language for creating formatted text. Many diff
 
 ### Header Examples
 
-- # + your header = an H1 element.
-- ## + your header = an H2 element.
-- ### + your header = an H3 element.
+- "#" + your header = an H1 element.
+- "##" + your header = an H2 element.
+- "###" + your header = an H3 element.
 - Each hashtag added will create the next level of header.
 
 ### Bold and Italics Examples
 
-- * * around any text will create italicized text.
+- ** around any text will create italicized text.
 - ** ** around any text will creare bold text.
