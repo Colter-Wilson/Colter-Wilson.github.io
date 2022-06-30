@@ -5,19 +5,28 @@ CSS stands for Cascading Style Sheets. CSS properties are used to style the HTML
 ## **CSS Examples**
 
 - H1 {
+
 color: Green;
+
 border: 1px Solid Grey;
+
 font-size: 10px;
+
 font-style: Italic;
+
 text-align: Center; }
 
 The code above is being applied to the H1 element. It will make the H1 text green, put a border that is 1px x 1px in size and grey, It will change the size of each character in the H1 to 10px, change the font to italic, and align the H1 in the center of the page.
 
 - Div {
 height: 100px;
+
 width: 100px;
+
 Display: inline;
+
 padding: 1px;
+
 background-color: Green; }
 
 
