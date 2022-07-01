@@ -15,5 +15,25 @@ JavaScript was invented by Brendan Eich in 1995. It is a lightweight programming
     document.getElementById('favorite-boxer').innerHTML = favoriteBoxer;
 }
 
--
+-function getFavoriteColor() {
+    let favoriteColor = prompt('What is your favorite color?');
+    let message = "Hmmm, " + favoriteColor + ", that's a great color!";
+    alert(message);
+    if (favoriteColor == '') {
+         prompt('Lets try that again... What is your favorite color?');
+    }
+    document.getElementById('favorite-color').innerHTML = favoriteColor;
+}
+
+-<header>
+        <h1>My Favorite Boxers</h1>
+        <nav>
+          <ul>
+            <li><p id="favorite-boxer"></p></li>
+            <li><a href="#">Beterbiev</a></li>
+            <li><a href="#">Lomachenko</a></li>
+            <li><a href="#">Inoue</a></li>
+          </ul>
+        </nav>
+      </header>
 
