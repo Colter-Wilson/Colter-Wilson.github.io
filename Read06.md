@@ -4,7 +4,7 @@ JavaScript was invented by Brendan Eich in 1995. It is a lightweight programming
 
 ## JavaScript Examples
 
-function getFavoriteBoxer() {
+-function getFavoriteBoxer() {
 
     let favoriteBoxer = prompt('Who is your favorite boxer?');
     
@@ -14,4 +14,6 @@ function getFavoriteBoxer() {
     
     document.getElementById('favorite-boxer').innerHTML = favoriteBoxer;
 }
+
+-
 
