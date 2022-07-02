@@ -26,4 +26,8 @@ The equal to Operator == is used to show values equal to each other.
 
 ## Resources
 
-[Control Flow] (https://www.w3schools.com/js/js_operators.asp)
+[Operators](https://www.w3schools.com/js/js_operators.asp)
+
+[Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
+
+[Functions](https://www.w3schools.com/js/js_functions.asp)
