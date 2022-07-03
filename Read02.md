@@ -51,6 +51,9 @@ file.png, file.gif, file.jpg - an image.
 
 [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 
+[About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
+
 
 
 
