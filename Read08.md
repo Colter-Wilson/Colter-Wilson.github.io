@@ -14,9 +14,9 @@ A comparison operator compares its operands and returns a logical value based on
 
 ## For and While Statement Loops
 
-A for loop repeats until a specified condition evaluates to false.
+A for loop repeats until a specified condition evaluates to false. For loops repeat an x amount of times.
 
-A while statement executes its statements as long as a specified condition evaluates to true.
+A while statement executes its statements as long as a specified condition evaluates to true. If the statement never meets the condition it will run forever.
 
 ### Examples
 
