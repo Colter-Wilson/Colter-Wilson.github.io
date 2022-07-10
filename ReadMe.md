@@ -12,6 +12,8 @@ Hello, my name is Colter Wilson, I am a 22 year old aspiring software developer 
 
 ## **Code 201 Reading Notes Table of Contents:**
 
+-[Read01](
+
 
 [My Github](https://github.com/Colter-Wilson).
 ```
